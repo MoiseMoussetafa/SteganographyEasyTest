@@ -27,4 +27,8 @@ _Note : sometimes, some .dll are missing. Depending on your system, installing t
 
 From there, you can edit, build and run the project.
 
+---
+
+## Illustration
+
 ![Sans titre](https://user-images.githubusercontent.com/72506988/233651719-715400d2-9d7d-41fe-80cd-83a4f228bdb2.png)
