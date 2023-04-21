@@ -8,7 +8,7 @@ Project done for class TP.
 - Windows 10 or higher
 - QT Creator (QT4) to rework the project
 
-## Usage 1 : executabble
+## Usage 1 : executable
 
 - Download the ZIP file and extract
 - Go here in the  : ```SteganographyEasyTest\build-TP_Steganographie-Desktop_Qt_6_2_4_MinGW_64_bit-Release\release``` and launch ```TP_Seganographie.exe```
