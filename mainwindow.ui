@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>382</width>
+    <height>248</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>20</y>
+      <width>161</width>
+      <height>24</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Choose a text file</string>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="textBrowser">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>50</y>
+      <width>263</width>
+      <height>129</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>382</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuYEAHMABOI">
+    <property name="title">
+     <string>YEAHMABOI</string>
+    </property>
+    <addaction name="actionThere_is_nothing_here"/>
+   </widget>
+   <widget class="QMenu" name="menuHEHE">
+    <property name="title">
+     <string>HEHE</string>
+    </property>
+    <addaction name="actionNothing_here_too"/>
+   </widget>
+   <widget class="QMenu" name="menuWOW">
+    <property name="title">
+     <string>WOW</string>
+    </property>
+    <addaction name="separator"/>
+    <addaction name="actionWhy_you_click_here"/>
+    <addaction name="actionJust_click_on_the_button_be"/>
+   </widget>
+   <addaction name="menuYEAHMABOI"/>
+   <addaction name="menuHEHE"/>
+   <addaction name="menuWOW"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionThere_is_nothing_here">
+   <property name="text">
+    <string>There is nothing here</string>
+   </property>
+  </action>
+  <action name="actionNothing_here_too">
+   <property name="text">
+    <string>Nothing here too</string>
+   </property>
+  </action>
+  <action name="actionWhy_you_click_here">
+   <property name="text">
+    <string>Why you click here ??</string>
+   </property>
+  </action>
+  <action name="actionJust_click_on_the_button_be">
+   <property name="text">
+    <string>Just click on the button below</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
