@@ -5,14 +5,16 @@ Project done for class TP.
 
 ## Prerequisites
 
-Before running the project, ensure that the following are installed:
-
-- QT Creator (QT4+)
 - Windows 10 or higher
+- QT Creator (QT4) to rework the project
 
-## Installation & Usage
+## Usage 1 : executabble
 
-1. Clone the repository from GitHub or download the ZIP file.
-2. Open the project in QT Creator.
-3. Build the project and run it.
-4. Follow the instructions once the program is launched
+- Download the ZIP file and extract
+- Go here in the  : ```SteganographyEasyTest\build-TP_Steganographie-Desktop_Qt_6_2_4_MinGW_64_bit-Release\release``` and launch ```TP_Seganographie.exe```
+- Click on the main button and select the file ```fastspeech.txt``` included in the ZIP file
+
+## Usage 2 : project
+
+- Download the ZIP file and extract
+- Open QTCreator and open the project, located here : ```SteganographyEasyTest\TP_Steganographie\TP_Steganographie.pro```
